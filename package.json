@@ -1,0 +1,27 @@
+{
+  "name": "note_taker",
+  "version": "1.0.0",
+  "description": "Nodejs app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugerald/note_taker.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "express"
+  ],
+  "author": "James",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugerald/note_taker/issues"
+  },
+  "homepage": "https://github.com/eugerald/note_taker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
